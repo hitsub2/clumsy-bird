@@ -1,3 +1,4 @@
 ---
 applications:
-- memory: 256M
+- name: clumsy-bird
+  memory: 512M
